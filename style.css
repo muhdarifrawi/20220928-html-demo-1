@@ -1,0 +1,15 @@
+#demo-1{
+    background-color: salmon;
+    /* padding-left:30px;
+    padding-right:30px; */
+    padding: 30px 40px 50px 60px;
+    margin:30px 40px 50px 60px;
+    /* border-color:purple;
+    border-style:dotted;
+    border-width: 5px;; */
+    border: 5px purple dotted;
+}
+
+#demo-2{
+    background-color: aquamarine;
+}
