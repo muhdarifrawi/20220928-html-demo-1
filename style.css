@@ -13,3 +13,45 @@
 #demo-2{
     background-color: aquamarine;
 }
+
+#demo-3{
+    background-color: aquamarine;
+}
+
+#bg-demo{
+    background-image: url("images/YK-cup.png");
+    height:100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    background-attachment: fixed ;
+    opacity: 0.25;
+}
+
+#z-index-demo-1{
+    background-color: aquamarine;
+    height:200px;
+    width:200px;
+    position:relative;
+    z-index:3;
+}
+
+#z-index-demo-2{
+    background-color: purple;
+    height:200px;
+    width:200px;
+    position:relative;
+    top:-200px;
+    left:50px;
+    z-index:2;
+}
+
+#z-index-demo-3{
+    background-color: olive;
+    height:200px;
+    width:200px;
+    position:relative;
+    top:-350px;
+    left:100px;
+    z-index:1;
+}
